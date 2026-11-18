@@ -22,3 +22,4 @@ Thumbs.db
 
 # LangGraph 本地检查点数据库
 checkpoints.sqlite3*
+checkpoints_4_4.sqlite3*

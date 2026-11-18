@@ -8,7 +8,6 @@ import argparse
 from pathlib import Path
 
 from langgraph.checkpoint.sqlite import SqliteSaver
-from langsmith.resources.sandboxes import snapshots
 
 PAPERS = {
     "P-101": {
